@@ -27,9 +27,9 @@
 
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wadehrarshpreet&show_icons=true)](https://github.com/wadehrarshpreet)
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=wadehrarshpreet&show_icons=true)](https://github.com/wadehrarshpreet) -->
 
-<br />
+<!-- <br /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadehrarshpreet&hide=html,css)](https://github.com/wadehrarshpreet)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadehrarshpreet&hide=html,css)](https://github.com/wadehrarshpreet) -->
 
